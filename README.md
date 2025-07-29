@@ -43,8 +43,8 @@ Follow these steps to set up and run the project locally.
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-name>
+    git clone <Uygarkilic53/mernstacknotes>
+    cd <Uygarkilic53/mernstacknotes>
     ```
 
 2.  **Backend Setup:**
